@@ -1,0 +1,17 @@
+body {    
+    font-family: 'Courier New', Courier, monospace;
+    font-size:16px;
+}
+label, input {
+    color:rgb(80, 18, 250);
+    font-weight: 600;
+    font-size:1.1em;
+}
+input[type="submit"] {
+    width:100px;
+    height: 38px;
+    border:solid 1px rgb(25, 214, 56);
+    border-radius: 5px;
+    margin-top:20px;
+    cursor: pointer;
+}
